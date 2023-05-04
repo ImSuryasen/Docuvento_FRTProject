@@ -4,10 +4,9 @@ Our website is designed to create a community and promote awareness about health
 # About
 Our website is dedicated to promoting awareness about health and the environment through a community-driven approach. Our platform offers free online events and resources, creating an accessible and engaging way for individuals to come together and learn about important issues affecting our planet and well-being. By fostering a collaborative and inclusive environment, we hope to inspire positive change and empower individuals to make a difference in their own communities.
 
-Through partnerships with various organizations, we strive to expand our reach and impact, hosting events that bring together individuals from different backgrounds and perspectives. Our platform serves as a hub for individuals passionate about health and the environment, offering a variety of resources and tools to help individuals stay informed and engaged. Whether you're interested in attending an event or want to get involved in our community, our website provides a valuable resource for individuals who want to make a positive impact on the world around them.
+Through partnerships with various organizations, we strive to expand our reach and impact, hosting events that bring together individuals from different backgrounds and perspectives. 
 
-# Note
-"Docuvento" website is currently in the prototype stage with no available resources, events, or collaborations at this time.
+Our platform serves as a hub for individuals passionate about health and the environment, offering a variety of resources and tools to help individuals stay informed and engaged. 
 
 ## Azure Services
 I used two Azure services for this project:
@@ -24,3 +23,6 @@ Health Bot demo video link :
 ## Demo Video 
 1. Project demo : 
 2. Health Bot demo : 
+
+# Note
+"Docuvento" website is currently in the prototype stage with no available resources, events, or collaborations at this time.
