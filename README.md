@@ -25,18 +25,18 @@ Health Bot demo video link :
 1. Project demo : https://drive.google.com/file/d/1_sgDMkS2ID_N6YRBSbU_p82JqcOACMLF/view?usp=share_link
 2. Health Bot demo : https://drive.google.com/file/d/1MAhXdBsdfWhSZtYBvZ6fBpJ4pzReJ1DY/view?usp=share_link
 
-#Screenshots
-Homepage
+# Screenshots
+## Homepage
 ![Screenshot 2023-05-04 183224](https://user-images.githubusercontent.com/100407626/236234002-f66e4826-1c9a-4af6-b17b-175913a8c93c.png)
 ![Screenshot 2023-05-04 183235](https://user-images.githubusercontent.com/100407626/236234137-a5cc4924-1107-462d-8cb2-f2bfb5c0ac25.png)
 ![Screenshot 2023-05-04 184146](https://user-images.githubusercontent.com/100407626/236234159-21044c0a-508e-4568-a4a9-78d60bffa2b7.png)
-Services page
+## Services page
 ![Screenshot 2023-05-04 184158](https://user-images.githubusercontent.com/100407626/236234180-2031e081-ee4f-4770-b852-1e8913c2fa58.png)
 Pricing Page
 ![Screenshot 2023-05-04 184203](https://user-images.githubusercontent.com/100407626/236234195-be1a9502-3e01-4aea-a7aa-30c6f85d9ff0.png)
-Contact Page
+## Contact Page
 ![Screenshot 2023-05-04 184209](https://user-images.githubusercontent.com/100407626/236234209-90bad0f7-bf4e-40f0-a454-72d1c1778678.png)
-Azure Health Bot
+## Azure Health Bot
 ![Screenshot 2023-05-04 184255](https://user-images.githubusercontent.com/100407626/236234252-2f813c4b-d5c0-400c-ba9c-3b4b740531d4.png)
 
 # Note
