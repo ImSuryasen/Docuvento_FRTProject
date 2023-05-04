@@ -32,7 +32,7 @@ Health Bot demo video link :
 ![Screenshot 2023-05-04 184146](https://user-images.githubusercontent.com/100407626/236234159-21044c0a-508e-4568-a4a9-78d60bffa2b7.png)
 ## Services page
 ![Screenshot 2023-05-04 184158](https://user-images.githubusercontent.com/100407626/236234180-2031e081-ee4f-4770-b852-1e8913c2fa58.png)
-Pricing Page
+## Pricing Page
 ![Screenshot 2023-05-04 184203](https://user-images.githubusercontent.com/100407626/236234195-be1a9502-3e01-4aea-a7aa-30c6f85d9ff0.png)
 ## Contact Page
 ![Screenshot 2023-05-04 184209](https://user-images.githubusercontent.com/100407626/236234209-90bad0f7-bf4e-40f0-a454-72d1c1778678.png)
