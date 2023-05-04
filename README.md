@@ -22,8 +22,8 @@ I used Azure chatbot service for deploying a chatbot which serves as the 24/7 cu
 Health Bot demo video link : 
 
 # Demo Video 
-1. Project demo : 
-2. Health Bot demo : 
+1. Project demo : https://drive.google.com/file/d/1_sgDMkS2ID_N6YRBSbU_p82JqcOACMLF/view?usp=share_link
+2. Health Bot demo : https://drive.google.com/file/d/1MAhXdBsdfWhSZtYBvZ6fBpJ4pzReJ1DY/view?usp=share_link
 
 # Note
 "Docuvento" website is currently in the prototype stage with no available resources, events, or collaborations at this time.
