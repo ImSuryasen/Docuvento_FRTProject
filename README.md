@@ -12,6 +12,7 @@ Our platform serves as a hub for individuals passionate about health and the env
 I used two Azure services for this project:
   1. Azure Static Web Apps
   2. Azure Health Bot
+  3. Storage Account
 
 # Azure Static Web Apps
 I uploaded all the code files in the github and connected that with the Microsoft Azure Static Web App to deploy my website through the Azure Services and hence recieved a globally visible link for the website.
