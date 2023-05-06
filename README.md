@@ -38,7 +38,7 @@ Health Bot demo video link :
 ## Azure Health Bot Report
 ![health bot report](https://user-images.githubusercontent.com/100407626/236600745-03053f84-64ed-4468-a365-19692fc6abe3.png)
 ## Azure Storage Accounts
-![storage account](https://user-images.githubusercontent.com/100407626/236600786-2236e7d9-f165-4e38-8ded-0afd86a9d41d.png)
+![storage account](https://user-images.githubusercontent.com/100407626/236603189-73001b35-a817-418a-ab9d-f90b7ef0ead4.png)
 ## Azure Storage Container
 ![storage container](https://user-images.githubusercontent.com/100407626/236600807-94df3671-f60d-4619-b7f1-27269a435e8a.png)
 # 2. Website 
