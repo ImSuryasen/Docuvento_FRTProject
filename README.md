@@ -26,9 +26,9 @@ Health Bot demo video link :
 2. Health Bot demo : https://drive.google.com/file/d/1MAhXdBsdfWhSZtYBvZ6fBpJ4pzReJ1DY/view?usp=share_link
 
 # Screenshots
-  # 1. Azure Services Used
-    ## Azure Resources - Homepage
-    ![resources used](https://user-images.githubusercontent.com/100407626/236600627-a235f7ef-0328-460e-a105-d1b949d0c171.png)
+# 1. Azure Services Used
+## Azure Resources - Homepage
+![resources used](https://user-images.githubusercontent.com/100407626/236600627-a235f7ef-0328-460e-a105-d1b949d0c171.png)
     ## Azure Resource Group
     ![resource group](https://user-images.githubusercontent.com/100407626/236600664-3f928c28-935a-498a-b1cc-54efe48a73c9.png)
     ## Azure Static Web App
