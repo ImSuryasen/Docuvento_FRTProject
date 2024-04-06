@@ -11,14 +11,14 @@ Our platform serves as a hub for individuals passionate about health and the env
 # Azure Services
 I used two Azure services for this project:
   1. Azure Static Web Apps
-  2. Azure Health Bot
+  2. Azure AI-Health Bot
   3. Storage Account
 
 # Azure Static Web Apps
 I uploaded all the code files in the github and connected that with the Microsoft Azure Static Web App to deploy my website through the Azure Services and hence recieved a globally visible link for the website.
 Website Link : 
 
-# Azure Health Chatbot Services
+# Azure AI-Health Chatbot Services
 I used Azure chatbot service for deploying a chatbot which serves as the 24/7 customer service for any health issues.
 Health Bot demo video link : 
 
@@ -34,7 +34,7 @@ Health Bot demo video link :
 ![resource group](https://user-images.githubusercontent.com/100407626/236600664-3f928c28-935a-498a-b1cc-54efe48a73c9.png)
 ## Azure Static Web App
 ![static web app](https://user-images.githubusercontent.com/100407626/236600709-ad0a40be-8eb8-48e2-8d4b-0f13883c746f.png)
-## Azure Health Bot
+## Azure AI-Health Bot
 ![azure health bot](https://user-images.githubusercontent.com/100407626/236600730-4fc898b7-ad44-40cc-80c7-0eef20f832e6.png)
 ## Azure Health Bot Report
 ![health bot report](https://user-images.githubusercontent.com/100407626/236600745-03053f84-64ed-4468-a365-19692fc6abe3.png)
@@ -53,7 +53,7 @@ Health Bot demo video link :
 ![Screenshot 2023-05-04 184203](https://user-images.githubusercontent.com/100407626/236234195-be1a9502-3e01-4aea-a7aa-30c6f85d9ff0.png)
 ## Contact Page
 ![Screenshot 2023-05-04 184209](https://user-images.githubusercontent.com/100407626/236234209-90bad0f7-bf4e-40f0-a454-72d1c1778678.png)
-## Azure Health Bot
+## Azure AI-Health Bot
 ![Screenshot 2023-05-04 184255](https://user-images.githubusercontent.com/100407626/236234252-2f813c4b-d5c0-400c-ba9c-3b4b740531d4.png)
 
 ## 
